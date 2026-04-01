@@ -8,7 +8,7 @@
   "server": {
     "ip": "FIENDS-UXsn.aternos.me",
     "port": 13219,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -37,8 +37,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 200,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 100,
+    "max-reconnect-delay": 200,
     "periodic-rejoin": {
       "enabled": true,
       "min-interval": 20,
